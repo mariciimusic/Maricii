@@ -59,14 +59,14 @@ const data = [
   {
     id: 5,
     image: "/work/youtube.jpg",
-    role: "Tutorial",
+    role: "FLP & Tutorials",
     company: "Youtube",
     type: "online",
-    date: "present",
+    date: "2020 - Present",
     options: [
-      "1200+ youtube subsribers",
-      "Created courses on React, Redux, Context API, Sass etc.",
-      "Tutorial videos included projects such as social networks, Ecommerce, blogs, stripe integrations and more",
+      "1500+ youtube subsribers",
+      "Creates Tutorials + Free FLP",
+      "FLP videos included projects such as Samples , Arrangement, Etc.",
     ],
   },
 ];

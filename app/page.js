@@ -27,7 +27,7 @@ export default function Home() {
 
 <WorkHistory/>
 
-<Projects/>
+{/* <Projects/> */}
 
 {/* <Reviews/> */}
 

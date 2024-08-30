@@ -14,6 +14,8 @@ import { FaMedium } from "react-icons/fa";
 import { MdEmail } from "react-icons/md";
 import { FaRegUserCircle } from "react-icons/fa";
 import SectionWrapper from "./SectionWrapper";
+import { FaSoundcloud } from "react-icons/fa";
+import { FaSpotify } from "react-icons/fa";
 
 
 
@@ -31,7 +33,6 @@ const Contacts = () => {
                 
             {contact.name === 'github' && <FaGithub size={18} className="text-black dark:text-white"/>}
 
-            {contact.name === 'X' && <FaSquareXTwitter size={18} className="text-black dark:text-white"/>}
 
             {contact.name === 'linkedin' && <FaLinkedin size={18} className="text-[#0a66c2] dark:text-white"/>}
 
@@ -41,14 +42,16 @@ const Contacts = () => {
 
             {contact.name === 'facebook' && <FaFacebookSquare size={18} className="text-[#1877f2] dark:text-white"/>}
 
-            {contact.name === 'behance' && <FaBehanceSquare size={18} className="text-[#003ECB] dark:text-white"/>}
+            {contact.name === 'soundcloud' && <FaSoundcloud size={18} className="text-[#003ECB] dark:text-white"/>}
 
             {contact.name === 'email' && <MdEmail size={18} className="text-[#003ECB] dark:text-white"/>}
 
             {contact.name === 'cv' && <FaRegUserCircle size={18} className="text-[#003ECB] dark:text-white"/>}
 
-            {contact.name === 'medium' && <FaMedium size={18} className="text-[#003ECB] dark:text-white"/>}
+            {contact.name === 'spotify' && <FaSpotify size={18} className="text-[#003ECB] dark:text-white"/>}
 
+            {contact.name === 'X' && <FaSquareXTwitter size={18} className="text-black dark:text-white"/>}
+            
             <span className=" text-sm md:text-base capitalize text-zinc-700 dark:text-white font-bold">{contact.label}</span>
 
             </Link>

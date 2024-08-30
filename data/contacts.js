@@ -1,27 +1,25 @@
 const data = [
-  {
-    id: 1,
-    name: "github",
-    label: "github",
-    link: "https://github.com/rahulmehra2028",
-  },
-  {
-    id: 2,
-    name: "X",
-    label: "twitter",
-    link: "http://twitter.com/username",
-  },
-  {
-    id: 3,
-    name: "linkedin",
-    label: "linkedin",
-    link: "http://linkedin.com/rahulmehra2028",
-  },
-  {
-    id: 4,
+  // {
+  //   id: 1,
+  //   name: "github",
+  //   label: "github",
+  //   link: "https://github.com/rahulmehra2028",
+  // },
+  // {
+ 
+    //   id: 3,
+    //   name: "linkedin",
+    //   label: "linkedin",
+    //   link: "http://linkedin.com/rahulmehra2028",
+    // },
+
+  
+
+    {
+      id: 4,
     name: "youtube",
     label: "youtube",
-    link: "http://youtube.com/username",
+    link: "https://www.youtube.com/@maricii128",
   },
   {
     id: 5,
@@ -37,27 +35,35 @@ const data = [
   },
   {
     id: 7,
-    name: "behance",
-    label: "behance",
-    link: "http://behance.com/username",
+    name: "soundcloud",
+    label: "soundCloud",
+    link: "https://soundcloud.com/user-44120075",
   },
   {
     id: 8,
-    name: "medium",
-    label: "medium",
-    link: "http://medium.com/username",
+    name: "spotify",
+    label: "spotify",
+    link: "https://open.spotify.com/artist/5ftMh7oAE2P3MyEKGeYnOm?_authfailed=1",
   },
   {
     id: 9,
     name: "email",
     label: "email",
-    link: "rahulmehra2028@gmail.com",
+    link: "mariciimusic@gmail.com",
   },
+  // {
+  //   id: 10,
+  //   name: "cv",
+  //   label: "download cv",
+  //   link: "/files/cv.pdf",
+  // },
+
   {
-    id: 10,
-    name: "cv",
-    label: "download cv",
-    link: "/files/cv.pdf",
+    id: 2,
+    name: "X",
+    label: "twitter",
+    link: "http://twitter.com/username",
   },
+
 ];
 export default data;

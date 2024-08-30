@@ -5,8 +5,8 @@ import DarkLight from "@/components/DarkLight";
 
 
 export const metadata = {
-  title: "Ajay Mehra",
-  description: "Hello I'm Ajay Mehra",
+  title: "Maricii",
+  description: "Hello I'm Maricii , A Music Producer Who Produces EDM Music From India",
 };
 
 export default function RootLayout({ children }) {

@@ -6,7 +6,7 @@ const Footer = () => {
  
         <div className="max-w-screen-xl mx-auto px-4 py-5">
 
-        <p className="text-sm font-semibold text-center text-zinc-800 dark:text-zinc-400 capitalize"> Developed By <strong className="font-black">Ajay Mehra ❤️</strong> </p>
+        <p className="text-sm font-semibold text-center text-zinc-800 dark:text-zinc-400 capitalize"> Developed By <strong className="font-black">Maricii</strong> With ❤️ </p>
 
         </div>
         

@@ -1,6 +1,6 @@
 const data = {
     heading: "Hello Everyone",
-    bio: "I'm Ajay Mehra, A Developer",
+    bio: "Hello I'm Maricii , A Music Producer Who Produces EDM Music.",
   };
   export default data;
   
