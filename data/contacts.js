@@ -3,11 +3,11 @@ const data = [
     id: 1,
     name: "github",
     label: "github",
-    link: "http://github.com/username",
+    link: "https://github.com/rahulmehra2028",
   },
   {
     id: 2,
-    name: "twitter",
+    name: "X",
     label: "twitter",
     link: "http://twitter.com/username",
   },
@@ -15,7 +15,7 @@ const data = [
     id: 3,
     name: "linkedin",
     label: "linkedin",
-    link: "http://linkedin.com/username",
+    link: "http://linkedin.com/rahulmehra2028",
   },
   {
     id: 4,
@@ -51,7 +51,7 @@ const data = [
     id: 9,
     name: "email",
     label: "email",
-    link: "mailto:email@gmail.com",
+    link: "rahulmehra2028@gmail.com",
   },
   {
     id: 10,

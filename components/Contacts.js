@@ -31,7 +31,7 @@ const Contacts = () => {
                 
             {contact.name === 'github' && <FaGithub size={18} className="text-black dark:text-white"/>}
 
-            {contact.name === 'twitter' && <FaSquareXTwitter size={18} className="text-black dark:text-white"/>}
+            {contact.name === 'X' && <FaSquareXTwitter size={18} className="text-black dark:text-white"/>}
 
             {contact.name === 'linkedin' && <FaLinkedin size={18} className="text-[#0a66c2] dark:text-white"/>}
 

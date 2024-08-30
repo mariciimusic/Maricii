@@ -38,7 +38,7 @@ const Model = ({state , details , toggleModel}) => {
 
             </div>
 
-            <div className="flex flex-wrap items-center gap-3 mt-3">
+            {/* <div className="flex flex-wrap items-center gap-3 mt-3">
 
                 <Link href={details.source_code}  target='_blank' className="flex items-center space-x-2 bg-zinc-100 dark:bg-zinc-800 px-3 py-2 hover:text-black hover:dark:text-white" >
                 
@@ -59,7 +59,7 @@ const Model = ({state , details , toggleModel}) => {
                 </span>
 
                 </Link>
-            </div>
+            </div> */}
 
                 <p className="text-base font-medium text-zinc-700 dark:text-zinc-400 leading-[20px] mt-6">{details.description}</p>
 

@@ -8,7 +8,7 @@ const  WorkHistory = () => {
     return (
         <SectionWrapper> 
 
-        <Heading> Work History </Heading>
+        <Heading> Basic Experience </Heading>
 
         {data.map(work => (
             <div className="mt-6 flex gap-x-6" key={work.id}>
