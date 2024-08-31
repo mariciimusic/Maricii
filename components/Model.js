@@ -4,6 +4,7 @@ import SkillComponent from "./SkillComponent";
 import Link from "next/link";
 import { FaGithub } from "react-icons/fa";
 import { TfiWorld } from "react-icons/tfi";
+import { FaYoutube } from "react-icons/fa";
 
 const Model = ({state , details , toggleModel}) => {
     return state ? (
@@ -38,19 +39,19 @@ const Model = ({state , details , toggleModel}) => {
 
             </div>
 
-            {/* <div className="flex flex-wrap items-center gap-3 mt-3">
+            <div className="flex flex-wrap items-center gap-3 mt-3">
 
                 <Link href={details.source_code}  target='_blank' className="flex items-center space-x-2 bg-zinc-100 dark:bg-zinc-800 px-3 py-2 hover:text-black hover:dark:text-white" >
                 
-                <FaGithub size={18} className="text-black dark:text-white"/>
+                <FaYoutube size={18} className="text-black dark:text-white"/>
 
                 <span className="text-sm md:text-base capitalize text-zinc-700 dark:text-white font-bold">
-                    source_code
+                    Download
                 </span>
 
                 </Link>
 
-                <Link href={details.demo}  target='_blank' className="flex items-center space-x-2 bg-zinc-100 dark:bg-zinc-800 px-3 py-2 hover:text-black hover:dark:text-white" >
+                {/* <Link href={details.demo}  target='_blank' className="flex items-center space-x-2 bg-zinc-100 dark:bg-zinc-800 px-3 py-2 hover:text-black hover:dark:text-white" >
                 
                 <TfiWorld size={18} className="text-black dark:text-white"/>
 
@@ -58,8 +59,8 @@ const Model = ({state , details , toggleModel}) => {
                     demo
                 </span>
 
-                </Link>
-            </div> */}
+                </Link> */}
+            </div>
 
                 <p className="text-base font-medium text-zinc-700 dark:text-zinc-400 leading-[20px] mt-6">{details.description}</p>
 

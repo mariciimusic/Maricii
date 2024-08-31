@@ -1,71 +1,53 @@
 const data = [
   {
     id: 1,
-    title: "Employee Management System",
-    image: "/projects/Employee-Management-System.png",
+    title: "Drum And Bass (Remix) FREE FLP ( 2024 ) ➡️",
+    image: "/projects/DnB.jpg",
     description:
-      "Employee Management System",
+      "Drum And Bass Free FLP ( 2024 )",
     skills: [
-      { id: 1, name: "HTML", image: "/skills/html-5.png" },
-      { id: 2, name: "CSS", image: "/skills/css3.png" },
-      { id: 24, name: "PHP", image: "/skills/php.png" },
-      { id: 25, name: "MySQL", image: "/skills/mysql.png" },
-      // { id: 3, name: "node", image: "/skills/node-js.png" },
-      // { id: 3, name: "mongodb", image: "/skills/mongodb.png" },
+      { id: 1, name: "FL Studio", image: "/skills/fl-studio.png" },
+
     ],
-    // source_code: "http://github.com/link",
+    source_code: "https://rekonise.com/jordan-adetunji-kehlani-drum-and-bass-remix-or-free-flp-st2lh",
     demo: "http://www.demo.com/mydemo",
   },
   {
     id: 2,
-    title: "Arduino Hardware Project",
-    image: "/projects/arduino.png",
+    title: "Drum & Bass | Free FLP ( 2024 ) ➡️ ",
+    image: "/projects/dnb (2).jpg",
     description:
-      "Arduino Distance Measurement System",
+      "Drum And Bass FREE FLP ( 2024 )",
     skills: [
-      // { id: 1, name: "react", image: "/skills/react.png" },
-      // { id: 4, name: "typescript", image: "/skills/typescript.png" },
-      // { id: 2, name: "next", image: "/skills/next-js.png" },
-      // { id: 3, name: "tailwindcss", image: "/skills/tailwind.png" },
-      // { id: 3, name: "graphql", image: "/skills/graphql.png" },
-      { id: 26, name: "Adruino Uno", image: "/skills/arduino.png" },
+      { id: 1, name: "FL Studio", image: "/skills/fl-studio.png" },
     ],
-    // source_code: "http://github.com/link",
-    // demo: "http://www.demo.com/mydemo",
+    source_code: "https://rekonise.com/drum-and-bass-free-flp-12_august_2024-ixs4s",
+    demo: "http://www.demo.com/mydemo",
   },
 
   {
     id: 3,
     title:
-      "AI ChatBot",
-    image: "/projects/ai-chatbot-app.png",
+      "SLAP HOUSE / DEEP HOUSE FLP | FREE FLP ( 2024 ) ➡️ ",
+    image: "/projects/slaphouse.jpg",
     description:
-      "AI ChatBot Build On Next JS",
+      "SLAP HOUSE / DEEP HOUSE FLP | FREE FLP ( 2024 )",
     skills: [
-      // { id: 1, name: "react", image: "/skills/react.png" },
-      { id: 4, name: "typescript", image: "/skills/typescript.png" },
-      { id: 2, name: "next", image: "/skills/next-js.png" },
-      { id: 3, name: "tailwindcss", image: "/skills/tailwind.png" },
-      // { id: 3, name: "solidity", image: "/skills/ethereum.png" },
-      // { id: 3, name: "hardhat", image: "/skills/hardhat.png" },
+      { id: 1, name: "FL Studio", image: "/skills/fl-studio.png" },
     ],
-    source_code: "http://github.com/link",
+    source_code: "https://rekonise.com/slap-house-flp-15_july_2024-qr42r",
     demo: "http://www.demo.com/mydemo",
   },
   {
     id: 4,
-    title: "My PortFolio Website",
-    image: "/projects/my_portfolio_website.png",
+    title: "FREE FLP | PHONK HOUSE FLP ( 2024 ) ➡️ ",
+    image: "/projects/Phonkflp.jpg",
     description:
-      "My PortFolio Website Build On Next JS 14",
+      "FREE FLP | PHONK HOUSE FLP ( 2024 )",
     skills: [
-      // { id: 1, name: "react", image: "/skills/react.png" },
-      { id: 4, name: "typescript", image: "/skills/typescript.png" },
-      { id: 2, name: "next", image: "/skills/next-js.png" },
-      { id: 3, name: "tailwindcss", image: "/skills/tailwind.png" },
-      // { id: 3, name: "solidity", image: "/skills/graphql.png" },
+      { id: 1, name: "FL Studio", image: "/skills/fl-studio.png" },
     ],
-    source_code: "http://github.com/link",
+    source_code: "https://rekonise.com/phonk_house-flp-7-july-2024-x9pqi",
     demo: "http://www.demo.com/mydemo",
   },
 ];
