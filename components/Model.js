@@ -19,7 +19,7 @@ const Model = ({state , details , toggleModel}) => {
 
                 <div className="pt-[56.24%]">
 
-                <Image src={details.image} fill className="w-full h-full absolute inset-0"/>
+                <Image src={details.image} fill className="w-full h-full absolute inset-0" alt="Img"/>
 
                 </div>
 
